@@ -1,3 +1,5 @@
+## Ниже вы можете видеть список заданий, <br> отчет о решении которых предоставлен в [src/solution.md](https://github.com/ArzimanOff/D01_Linux-1/blob/master/src/solution.md)
+
 # Операционные системы UNIX/Linux (Базовый).
 
 Установка и обновления системы Linux. Основы администрирования.
